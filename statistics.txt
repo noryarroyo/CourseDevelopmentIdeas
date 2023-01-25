@@ -3,4 +3,7 @@ Ideas for curriculum:
 -Mean and standard deviation 
 -Regression 
 -Bayes Theorem 
-
+-Inference
+-Programming 
+-Visualization
+ 
